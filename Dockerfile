@@ -1,4 +1,4 @@
-FROM nats:2.11.17
+FROM nats:2.12.8
 
 COPY /nats-server.conf /nats-server.conf
 
